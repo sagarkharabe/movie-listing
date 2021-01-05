@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/kruttikap/movie-listing#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "isomorphic-unfetch": "^3.0.0",
     "next": "^9.1.4",
     "react": "^16.12.0",
